@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+#bottom{
+    transform : linear-gradient(transparent,black)
+}
+
+*{
+    font-family:'helvetica neue';
+}
